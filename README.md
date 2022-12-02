@@ -4,8 +4,8 @@
 
 ## Table of Contents
 - [Installation](#install)
-- [Screenshot of Deployed Application](#deployed application)
-- [Deployment Link](#deployment link)
+- [Screenshot of Deployed Application](#deployed)
+- [Deployment Link](#deployment)
 - [Usage](#usage)
 - [Questions](#questions)
 
